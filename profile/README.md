@@ -42,4 +42,9 @@
 | React | TypeScript | Spring boot | MySQL | Redis |
 
 
+## Troubleshooting
+
+<p align="center">
+
+</p>
 
