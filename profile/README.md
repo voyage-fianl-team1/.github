@@ -1,4 +1,4 @@
-# 🌟 항해99 7주차 7조 프로젝트 - I-sKream 🌟
+# 🌟 MATCHGI -  🌟
 
 ## Introduce
 
