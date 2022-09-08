@@ -12,7 +12,7 @@
 
 | 🧑 Front | 🧑 Front | 🧑 Back | 🧑 Back | 🧑 Back |
 | :---: | :---: | :---: | :---: | :---: |
-| [<img src= "https://avatars.githubusercontent.com/u/103014298?v=4" width = "200">](https://github.com/livemehere)| [<img src="https://avatars.githubusercontent.com/u/104844327?v=4" width = "200">](https://github.com/keepinblazing)| [<img src="https://avatars.githubusercontent.com/u/107831692?v=4" width = "200" >]https://github.com/PARKYUNJU)| [<img src="https://avatars.githubusercontent.com/u/88228147?v=4" width = "200">](https://github.com/Park-Tae-Woong)| [<img src= "https://github.com/KumohDaseong/2021_SwBank/blob/main/readme_img/kimseonjin.png" width = "200">](https://github.com/yougeun6021)|
+| [<img src= "https://avatars.githubusercontent.com/u/103014298?v=4" width = "200">](https://github.com/livemehere)| [<img src="https://avatars.githubusercontent.com/u/104844327?v=4" width = "200">](https://github.com/keepinblazing)| [<img src="https://avatars.githubusercontent.com/u/107831692?v=4" width = "200" >](https://github.com/PARKYUNJU)| [<img src="https://avatars.githubusercontent.com/u/88228147?v=4" width = "200">](https://github.com/Park-Tae-Woong)| [<img src= "https://github.com/KumohDaseong/2021_SwBank/blob/main/readme_img/kimseonjin.png" width = "200">](https://github.com/yougeun6021)|
 | 공태민 | 박지민 | 박윤주 | 박태웅 | 신유근 |
  
 
