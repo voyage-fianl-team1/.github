@@ -2,7 +2,7 @@
 
 ## Introduce
 
-![매치기 로고](https://user-images.githubusercontent.com/103014298/189836383-f36b7aad-444d-43db-a509-82739eebdc83.svg)
+<img src='https://user-images.githubusercontent.com/103014298/189836383-f36b7aad-444d-43db-a509-82739eebdc83.svg' style={{witdh:"100%"}}/>
 
 <p align="center">
 
