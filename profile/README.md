@@ -2,6 +2,8 @@
 
 ## Introduce
 
+![매치기 로고](https://user-images.githubusercontent.com/103014298/189836383-f36b7aad-444d-43db-a509-82739eebdc83.svg)
+
 <p align="center">
 
 </p>
@@ -15,6 +17,7 @@
 
 ## Architecture
 
+![Untitled](https://user-images.githubusercontent.com/103014298/189836424-1f173ec1-7f45-4da7-bb8f-69b5a01be578.png)
 <p align="center">
 
 </p>
