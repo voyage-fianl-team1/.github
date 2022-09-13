@@ -2,7 +2,9 @@
 
 ## Introduce
 
-<img src='https://user-images.githubusercontent.com/103014298/189836383-f36b7aad-444d-43db-a509-82739eebdc83.svg' style={{witdh:"100%"}}/>
+<div style={{witdh:"100vw"}}>
+![매치기 로고](https://user-images.githubusercontent.com/103014298/189836611-336dea61-df8a-4738-be3b-d01a8c53fb47.svg)
+</div>
 
 <p align="center">
 
