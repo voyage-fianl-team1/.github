@@ -7,8 +7,9 @@
 </p>
 
 ## WireFlame
-<img src='https://www.figma.com/file/HNOI1rES8jmTYyPXbHiG79/%ED%95%AD%ED%95%B499?node-id=1976%3A2854'/>
+![1](https://user-images.githubusercontent.com/103014298/190074943-3c0042ee-bb59-4d0d-b00e-1a5da651d02a.png)
 <p align="center">
+
 
 </p>
 
