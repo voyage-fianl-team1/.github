@@ -44,7 +44,7 @@
 - 닉네임, 프로필 사진 변경, 내 게시글 및 개인 성적 조회
 
 
-## WireFlame
+## WireFrame
 ![1](https://user-images.githubusercontent.com/103014298/190074943-3c0042ee-bb59-4d0d-b00e-1a5da651d02a.png)
 
 ## Architecture
