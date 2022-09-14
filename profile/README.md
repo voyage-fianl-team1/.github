@@ -3,18 +3,24 @@
 ## Introduce
 ![1 1](https://user-images.githubusercontent.com/103014298/190076556-ef93d8f5-d99a-4427-a60e-29e70bb2c230.png)
 
+###프로젝트명
 
-<p align="center">
+매치기(Match-gi : Match + go) | 우리 동네 스포츠 매칭 서비스
 
-</p>
+### 개발 기간
+
+22. 8. 5. ~ 22. 9. 16.
+
+### 개발 취지
+
+- 여러명이 함께해야 하는 운동을 하고싶은데 팀에 속하기는 부담스러운 분들을 위해
+- 일회성 운동메이트가 필요한 분들을 위해
+- 좋아하는 운동을 새로운 사람들과 즐기고 싶은 분들을 위해
+- 경기 결과를 토대로 비슷한 실력의 사람들과 대결하기 위해
+- 타지에서도 쉽게 운동을 할 수 있게하기 위해
 
 ## WireFlame
 ![1](https://user-images.githubusercontent.com/103014298/190074943-3c0042ee-bb59-4d0d-b00e-1a5da651d02a.png)
-<p align="center">
-
-
-</p>
-
 
 ## Architecture
 
