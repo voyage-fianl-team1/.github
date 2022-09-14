@@ -31,7 +31,7 @@
 | 🧑 Front | 🧑 Front | 🧑 Back | 🧑 Back | 🧑 Back | 🧑 Design |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [<img src= "https://avatars.githubusercontent.com/u/61547778?v=4" width = "200">](https://github.com/livemehere)| [<img src="https://avatars.githubusercontent.com/u/103014298?v=4" width = "200">](https://github.com/keepinblazing)| [<img src="https://avatars.githubusercontent.com/u/86733856?v=4" width = "200" >](https://github.com/PARKYUNJU)| [<img src="https://avatars.githubusercontent.com/u/107820746?v=4" width = "200">](https://github.com/Park-Tae-Woong)| [<img src= "https://avatars.githubusercontent.com/u/99013391?v=4" width = "200">](https://github.com/yougeun6021)|
-| [<img src= "https://avatars.githubusercontent.com/u/99013391?v=4" width = "200">](https://github.com/yougeun6021)|
+[<img src= "https://avatars.githubusercontent.com/u/99013391?v=4" width = "200">](https://github.com/yougeun6021)|
 | 공태민(L) | 박지민 | 박윤주(VL) | 박태웅 | 신유근 | 강혜린 |
  
 
