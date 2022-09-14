@@ -19,7 +19,6 @@
 - 경기 결과를 토대로 비슷한 실력의 사람들과 대결하기 위해
 - 타지에서도 쉽게 운동을 할 수 있게하기 위해
 
-<a href = "https://match-gi.com/" name='매치기 주소'/>
 
 ## WireFlame
 ![1](https://user-images.githubusercontent.com/103014298/190074943-3c0042ee-bb59-4d0d-b00e-1a5da651d02a.png)
