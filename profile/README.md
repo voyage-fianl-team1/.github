@@ -47,7 +47,7 @@
 
 ## Tools
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white"/>
+![Group 820](https://user-images.githubusercontent.com/103014298/190171101-d9d10c9f-cf0d-4c7c-b8b3-2d5522442a8d.png) ![image 356](https://user-images.githubusercontent.com/103014298/190171112-dd72a51a-ebcd-4c3a-aa74-1464aec10bd1.png)![image 357](https://user-images.githubusercontent.com/103014298/190171127-f7fe4cae-8976-403a-94ff-529aadca397f.png)
 
 ## WireFrame
 
