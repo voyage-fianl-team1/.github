@@ -19,7 +19,8 @@
 - 경기 결과를 토대로 비슷한 실력의 사람들과 대결하기 위해
 - 타지에서도 쉽게 운동을 할 수 있게하기 위해
 
-### 주요 기능
+## 주요 기능
+<hr/>
 
 ✅ 경기 모집
 - 경기 모집글 작성 및 신청, 게시글 검색 및 종목별 필터링, 정렬
@@ -44,12 +45,16 @@
 ✅ 마이페이지
 - 닉네임, 프로필 사진 변경, 내 게시글 및 개인 성적 조회
 
+## Tools
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src =“https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=whitehttps://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white”/>
 
 ## WireFrame
+<hr/>
 ![1](https://user-images.githubusercontent.com/103014298/190074943-3c0042ee-bb59-4d0d-b00e-1a5da651d02a.png)
 
 ## Architecture
-
+<hr/>
 ![Untitled](https://user-images.githubusercontent.com/103014298/189836424-1f173ec1-7f45-4da7-bb8f-69b5a01be578.png)
 <p align="center">
 
