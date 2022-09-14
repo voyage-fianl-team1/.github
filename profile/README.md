@@ -20,7 +20,6 @@
 - 타지에서도 쉽게 운동을 할 수 있게하기 위해
 
 ## 주요 기능
-<hr/>
 
 ✅ 경기 모집
 - 경기 모집글 작성 및 신청, 게시글 검색 및 종목별 필터링, 정렬
@@ -47,33 +46,22 @@
 
 ## Tools
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src =“https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=whitehttps://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white”/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 ## WireFrame
-<hr/>
 ![1](https://user-images.githubusercontent.com/103014298/190074943-3c0042ee-bb59-4d0d-b00e-1a5da651d02a.png)
 
 ## Architecture
-<hr/>
 ![Untitled](https://user-images.githubusercontent.com/103014298/189836424-1f173ec1-7f45-4da7-bb8f-69b5a01be578.png)
-<p align="center">
-
-</p>
-
 
 ## 🧑‍💻 Member
 <div align="center">
-
 
 | 🧑 Front | 🧑 Front | 🧑 Back | 🧑 Back | 🧑 Back | 🧑 Design |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [<img src= "https://avatars.githubusercontent.com/u/61547778?v=4" width = "200">](https://github.com/livemehere)| [<img src="https://avatars.githubusercontent.com/u/103014298?v=4" width = "200">](https://github.com/keepinblazing)| [<img src="https://avatars.githubusercontent.com/u/86733856?v=4" width = "200" >](https://github.com/PARKYUNJU)| [<img src="https://avatars.githubusercontent.com/u/107820746?v=4" width = "200">](https://github.com/Park-Tae-Woong)| [<img src= "https://avatars.githubusercontent.com/u/99013391?v=4" width = "200">](https://github.com/yougeun6021)|<img src= "https://d2u3dcdbebyaiu.cloudfront.net/uploads/atch_img/309/59932b0eb046f9fa3e063b8875032edd_crop.jpeg" width = "200">|
 | 공태민(L) | 박지민 | 박윤주(VL) | 박태웅 | 신유근 | 강혜린 |
  
-
-
-</div>
-
 
 ## Skill Set
 
