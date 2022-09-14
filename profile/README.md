@@ -1,6 +1,7 @@
-# 🌟 MATCHGI 🌟
+<h1>🌟 MATCHGI 🌟</h1>
 
 ## Introduce
+
 ![1 1](https://user-images.githubusercontent.com/103014298/190076556-ef93d8f5-d99a-4427-a60e-29e70bb2c230.png)
 
 ### 프로젝트명
@@ -49,12 +50,15 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white"/>
 
 ## WireFrame
+
 ![1](https://user-images.githubusercontent.com/103014298/190074943-3c0042ee-bb59-4d0d-b00e-1a5da651d02a.png)
 
 ## Architecture
+
 ![Untitled](https://user-images.githubusercontent.com/103014298/189836424-1f173ec1-7f45-4da7-bb8f-69b5a01be578.png)
 
 ## 🧑‍💻 Member
+
 <div align="center">
 
 | 🧑 Front | 🧑 Front | 🧑 Back | 🧑 Back | 🧑 Back | 🧑 Design |
