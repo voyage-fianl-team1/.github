@@ -46,7 +46,7 @@
 - 닉네임, 프로필 사진 변경, 내 게시글 및 개인 성적 조회
 
 ## Tools
-![github](https://user-images.githubusercontent.com/103014298/190316017-c8dd72bd-e4a3-408a-ad1f-91a9a2075947.png) ![githubaction](https://user-images.githubusercontent.com/103014298/190316019-80876c33-c15f-4f75-b4a9-cd908d24d736.png) ![1](https://user-images.githubusercontent.com/103014298/190172037-82bec154-cf63-48ec-8f10-dd04cdfb87ee.png)
+![github](https://user-images.githubusercontent.com/103014298/190316017-c8dd72bd-e4a3-408a-ad1f-91a9a2075947.png)  ![githubaction](https://user-images.githubusercontent.com/103014298/190316019-80876c33-c15f-4f75-b4a9-cd908d24d736.png)  ![1](https://user-images.githubusercontent.com/103014298/190172037-82bec154-cf63-48ec-8f10-dd04cdfb87ee.png)
 
 
 
